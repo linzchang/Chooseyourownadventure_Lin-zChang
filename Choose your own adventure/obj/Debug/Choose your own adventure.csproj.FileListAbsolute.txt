@@ -1,0 +1,7 @@
+\\mi\dfs\users\LChang\Desktop\Assessment 1\Choose your own adventure\Choose your own adventure\obj\Debug\Choose your own adventure.csprojAssemblyReference.cache
+\\mi\dfs\users\LChang\Desktop\Assessment 1\Choose your own adventure\Choose your own adventure\obj\Debug\Choose your own adventure.csproj.CoreCompileInputs.cache
+\\mi\dfs\users\LChang\Desktop\Assessment 1\Choose your own adventure\Choose your own adventure\bin\Debug\Choose your own adventure.exe.config
+\\mi\dfs\users\LChang\Desktop\Assessment 1\Choose your own adventure\Choose your own adventure\bin\Debug\Choose your own adventure.exe
+\\mi\dfs\users\LChang\Desktop\Assessment 1\Choose your own adventure\Choose your own adventure\bin\Debug\Choose your own adventure.pdb
+\\mi\dfs\users\LChang\Desktop\Assessment 1\Choose your own adventure\Choose your own adventure\obj\Debug\Choose your own adventure.exe
+\\mi\dfs\users\LChang\Desktop\Assessment 1\Choose your own adventure\Choose your own adventure\obj\Debug\Choose your own adventure.pdb
